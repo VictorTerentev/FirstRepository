@@ -1,1 +1,2 @@
 Good bye!
+line frim user2 -lesson about rebase
